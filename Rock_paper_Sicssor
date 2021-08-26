@@ -1,3 +1,4 @@
+#The game is being played between a player and computer
 import random
 import sys
 # Setting up initital variables to zero
