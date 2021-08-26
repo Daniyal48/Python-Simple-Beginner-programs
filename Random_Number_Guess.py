@@ -1,4 +1,6 @@
 #Guess the number
+#This progarm is between a player 1 and player 2 we can also modify it to computer and player
+#Player 2 has only the option to put the number range an number of guesses he wants to give to the palyer 1
 import random
 print("Please Player 1 enter your name")
 name1 = str(input())
