@@ -1,4 +1,4 @@
-"""
+
 Q1:What are the two values of the boolean data type: How do you write them?
 Ans:Two values are True and False. They are written in a way that the first letter of the True or False is capital
     and it is written without any qoutes then it will work other wise python can give us error
@@ -108,10 +108,11 @@ while True:
     else:
         continue
 
-PROGRAM FOR ROUND NUMBER:"""
+PROGRAM FOR ROUND NUMBER:
 while True:
     print("Please enter a number to round it off")
     User_in = float(input())
     print("Please enter a value for least decimal points")
     User_point = int(input())
     print("The rounded vaue is " + str(round(User_in,User_point)))
+    
